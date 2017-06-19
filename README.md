@@ -1,2 +1,2 @@
-# rigfoford.github.io
+# rigoford.github.io
 GitHub Pages for rigoford
